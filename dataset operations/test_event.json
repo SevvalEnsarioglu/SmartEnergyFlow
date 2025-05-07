@@ -1,0 +1,9 @@
+{
+    "Records": [
+      {
+        "kinesis": {
+          "data": "eyJHYXJhZ2UgZG9vciI6IDAuMDEzMiwgIldlbGwiOiAwLjAwMTAxNjY2NywgIkZ1cm5hY2UiOiAwLjIxNDk1LCAiS2l0Y2hlbiI6IDAuMDAwNzgzNCwgIkJhcm4iOiAwLjAzMTcxNjY2NywgIkxpdmluZyByb29tIjogMC4wMDE2NSwgIkhvbWUgb2ZmaWNlIjogMC4yNTcxLCAiZ2VuIjogMC4wMDM0MzMzMywgIk1pY3Jvd2F2ZSI6IDAuMDA0MjE2NjY3LCAiaG91ciI6IDUsICJGcmlkZ2UiOiAwLjAwNTAxNjY2NywgIkRpc2h3YXNoZXIiOiAwLjAwMDAxNjcsICJkZXdQb2ludCI6IDI0LjQsICJ1c2UiOiAwLjY3OTU2NjY3LCAidGltZSI6ICIyMDE2LTAxLTAxVDA1OjIzOjAwIn0="
+        }
+      }
+    ]
+  }
