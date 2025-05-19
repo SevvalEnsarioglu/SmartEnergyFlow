@@ -4,9 +4,13 @@ SmartEnergyFlow, ev ortamındaki cihazların enerji tüketimi ve zaman verilerin
 📚 Kullanılan Kütüphaneler
 
 NumPy & Pandas: Ham sensör verilerini yüklemek, tablo benzeri yapılarla ön işleme ve manipülasyon işlemlerini hızlıca yapmak için kullanıldı.
+
 Matplotlib: Zaman serisi grafikleri ve dağılım görselleştirmeleri ile verinin zamana bağlı davranışını anlamamıza yardımcı oldu.
+
 scikit-learn: Özellik seçimi (feature selection) adımlarında SelectKBest, VarianceThreshold gibi yöntemlerle kritik öznitelikleri belirledik.
+
 LightGBM: Özellik seçimi sonrası daha hızlı ve ölçeklenebilir bir modelleme aracı olarak kullanıldı; tüketim örüntülerinin önem derecelerini analiz etmek için LightGBM’in feature_importances_ özelliğinden yararlandık.
+
 boto3: AWS Kinesis’e veri akışı göndermek ve AWS Lambda fonksiyonları aracılığıyla DynamoDB’ye kayıt işlemlerini tetiklemek için resmi AWS SDK’sı kullanıldı.
 
 📊 Neler Yapıldı?
