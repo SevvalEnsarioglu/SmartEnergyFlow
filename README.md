@@ -1,5 +1,5 @@
 # SmartEnergyFlow – Gerçek Zamanlı Enerji Tüketimi İzleme
-SmartEnergyFlow, ev ortamındaki cihazların enerji tüketimi ve zaman verilerini gerçek zamanlı olarak toplayıp AWS altyapısı üzerinden güvenli bir şekilde veritabanına kaydeden bir veri yönetimi projesidir. Bu sayede anlık tüketim trendlerini izleyebilir, özelllik seçimi ile kritik parametreleri belirleyebilir ve veri odaklı içgörüler elde edilebilir.
+SmartEnergyFlow, ev ortamındaki cihazların enerji tüketimi ve zaman verilerini gerçek zamanlı olarak toplayıp AWS altyapısı üzerinden güvenli bir şekilde veritabanına kaydeden bir veri yönetimi projesidir. 
 
 📚 Kullanılan Kütüphaneler
 
@@ -25,4 +25,4 @@ Grafiksel Analiz & Raporlama: Matplotlib kullanarak zaman serisi çizimleri ve f
 
 ✅ Sonuç
 
-SmartEnergyFlow ile gerçek zamanlı enerji tüketim verilerini AWS üzerinde kesintisiz şekilde toplayabiliyor ve ölçeklenebilir bir sunucusuz mimariyle DynamoDB’ye kaydedebiliyoruz. Özellik seçimi sayesinde kritik parametreleri belirleyerek ileride tüketim tahmini veya anomali tespiti için sağlam bir temel oluşturduk. Bu yapı, IoT temelli enerji yönetimi projeleriniz için hem veri toplama hem de ön işleme katmanında güvenilir bir çözüm sunar.
+SmartEnergyFlow ile gerçek zamanlı enerji tüketim verilerini AWS üzerinde kesintisiz şekilde toplayabiliyor ve ölçeklenebilir bir sunucusuz mimariyle DynamoDB’ye kaydedebiliyoruz. Özellik seçimi sayesinde kritik parametreleri belirleyerek ileride tüketim tahmini veya anomali tespiti için sağlam bir temel oluşturduk. Bu proje anlık tüketim trendlerini izlemeye, özelllik seçimi ile kritik parametreleri belirlemeye ve veri odaklı içgörüler elde etmeye yarar.
